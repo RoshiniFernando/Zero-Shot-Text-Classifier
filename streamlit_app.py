@@ -508,9 +508,9 @@ if __name__ == "__main__":
 
 keyboard_to_url(
     key="g",
-    url="",
+    url="https://github.com/RoshiniFernando/Zero-Shot-Text-Classifier/blob/main/streamlit_app.py",
 )
 keyboard_to_url(
     key_code=190,
-    url="",
+    url="https://github.dev/RoshiniFernando/Zero-Shot-Text-Classifier/blob/main/streamlit_app.py",
 )
